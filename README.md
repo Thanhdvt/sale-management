@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a repository that contains the source code for a web-based Point of Sale (POS) application. This application is developed using Java Spring Boot for the backend and Vue.js for the frontend.
+This is a repository that contains the source code for a web-based Point of Sale (POS) application. This application is developed using Java Spring Boot for the backend and React.js for the frontend.
 
 ## Requirements
 
