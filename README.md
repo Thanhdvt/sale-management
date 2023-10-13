@@ -1,4 +1,4 @@
-# POS Sale Web Application
+# POS System Web Application
 
 ## Introduction
 
@@ -62,5 +62,5 @@ Before you begin, make sure you have the following requirements installed:
 ## Contact
 If you have any questions or suggestions, please contact us via email: thanhak2k2@gmail.com.
 
-We welcome contributions and feedback from the developer community. Thank you for using our POS Sale application!
+We welcome contributions and feedback from the developer community. Thank you for using our POS System application!
    
